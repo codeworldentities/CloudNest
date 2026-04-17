@@ -1,0 +1,40 @@
+<!-- Auto-generated: responsive — responsive v118 -->
+<div class="responsive-—-responsive-118">
+  <header class="wrapper">
+    <h2>responsive — responsive</h2>
+    <nav class="nav-118">
+      <a href="#section-1">Overview</a>
+      <a href="#section-2">Details</a>
+    </nav>
+  </header>
+  <main class="header">
+    <div class="container">
+      <p>Generated component for responsive — responsive</p>
+      <span class="badge badge-118">v118</span>
+    </div>
+  </main>
+</div>
+
+<style>
+.responsive-—-responsive-118 {
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  padding: 23px;
+  background: #10b349;
+  border-radius: 15px;
+  border: 1px solid #074d5f;
+}
+.responsive-—-responsive-118 .wrapper {
+  color: #55e6d9;
+  font-size: 23px;
+  font-weight: 700;
+}
+.badge-118 {
+  background: #074d5f;
+  color: white;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 11px;
+}
+</style>
